@@ -2,6 +2,8 @@
 
 > **Identifying growth opportunities, margin inefficiencies, and data quality issues in a retail company's operations through business-focused data analysis.**
 
+[![Tableau Public](https://img.shields.io/badge/View%20Interactive%20Dashboard-Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/isabella.rondon/viz/Dashboard-IsabellaRondon/Dashboard2)
+
 ---
 
 ## 🗂️ Project Overview
