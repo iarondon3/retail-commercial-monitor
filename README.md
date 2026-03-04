@@ -36,7 +36,7 @@
 ### Dashboard 1 — Commercial Performance Monitor
 *KPIs, Revenue vs. Profit trend over time, and Revenue by Product*
 
-![Dashboard 1 - Commercial Performance Monitor](dashboard/screenshots/dashboard_1_performance_monitor.png)
+![Dashboard 1 - Commercial Performance Monitor](dashboard_1_performance_monitor.png.png)
 
 **Key KPIs at a glance:**
 - 💰 **Total Revenue:** $3,689,482
